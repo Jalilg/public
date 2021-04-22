@@ -1,1 +1,1 @@
-["[{\"predDate\":\"20190701\",\"Provider\":\"Watson Project\",\"Races\":\"all\",\"Gender\":\"Male\",\"Income\":\"800\",\"Veteran\":\"Veteran\",\"Disab\":\"Disabled\",\"Ethnicity\":\"Non-Hispanic/Latino\",\"SixMoPredHomelessRate\":7.14,\"SixMoInvPredHomelessRate\":92.86}]"]
+[{"predDate":"20190701","Provider":"Watson Project","Races":"all","Gender":"Male","Income":"800","Veteran":"Veteran","Disab":"Disabled","Ethnicity":"Non-Hispanic/Latino","SixMoPredHomelessRate":7.14,"SixMoInvPredHomelessRate":92.86}]
